@@ -1,0 +1,10 @@
+{
+  "features": [
+    {"name": "SSO / SAML",          "reach": 5000, "impact": 3, "confidence": 90, "effort": 3, "ease": 5, "tags": ["enterprise","auth"]},
+    {"name": "Bulk CSV export",      "reach": 2000, "impact": 2, "confidence": 80, "effort": 1, "ease": 8, "tags": ["data","ux"]},
+    {"name": "Custom webhooks",      "reach": 1500, "impact": 2, "confidence": 70, "effort": 2, "ease": 6, "tags": ["platform","api"]},
+    {"name": "Mobile app",           "reach": 3000, "impact": 3, "confidence": 60, "effort": 8, "ease": 3, "tags": ["growth","mobile"]},
+    {"name": "AI-generated summaries","reach": 4000,"impact": 3, "confidence": 50, "effort": 5, "ease": 4, "tags": ["ai","productivity"]},
+    {"name": "Dark mode",            "reach": 8000, "impact": 1, "confidence": 95, "effort": 1, "ease": 9, "tags": ["ux","polish"]}
+  ]
+}
